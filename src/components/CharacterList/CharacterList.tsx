@@ -110,7 +110,9 @@ const CharacterList = ({
         numColumns={gridMode ? 2 : 1}
         key={gridMode ? 1 : 0}
         columnWrapperStyle={gridMode ? styles.columnWrapperStyle : null}
-        ListEmptyComponent={<CharacterListEmpty />}
+        ListEmptyComponent={
+          getCharactersIsLoading ? null : <CharacterListEmpty />
+        }
         contentContainerStyle={
           isCharacterListEmpty ? styles.emptyContentContainerStyle : null
         }
