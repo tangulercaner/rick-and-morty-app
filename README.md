@@ -1,5 +1,5 @@
 # Rick and Morty App
 
-For Android "yarn install" and run
+For Android "npm install" and run
 
-For iOS "yarn install" -> "cd .\ios" -> "pod install" and ru
+For iOS "npm install" -> "cd .\ios" -> "pod install" and run
