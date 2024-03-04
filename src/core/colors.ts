@@ -1,0 +1,15 @@
+export default {
+  black: '#000000',
+  white: '#FFFFFF',
+  dustyGray: '#9C9C9C',
+  portage: '#88A4E8',
+  fog: '#DBE3FF',
+  bizarre: '#f2dfdf',
+  geraldine: '#f78888',
+  jaguar: '#020112',
+  wildSand: '#F5F5F5',
+  coralRed: '#F63745',
+  silver: '#C5C5C5',
+  deepForestGreen: '#102107',
+  palmLeaf: '#1F3D0F',
+};

@@ -1,0 +1,18 @@
+{
+  "character_list": "Character List",
+  "favorite_characters_list": "Favorite Characters List",
+  "num_of_episodes": "Number of Episodes",
+  "gender": "Gender",
+  "origin_location_name": "Origin Location Name",
+  "last_known_location_name": "Last Known Location Name",
+  "last_seen_episode_name": "Last Seen Episode Name",
+  "last_seen_air_date": "Last Seen Air Date",
+  "status_alive": "Alive",
+  "status_dead": "Dead",
+  "status_unkown": "Unkown",
+  "filter_name_title": "Name: ",
+  "filter_name_status": "Status: ",
+  "home_tab_title": "Home",
+  "favorites_tab_title": "Favorites",
+  "list_empty_warning": "Character list is empty."
+}
